@@ -91,13 +91,20 @@ Average Benchmarks:
 ## Do you have a customize project for us?
 Contact Us  
 <p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join-Discord">
+  <a href="https://t.me/devpilot1" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
+  <a href="https://discord.gg/vBu9huKBvy" target="_blank">
+    <img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://wa.me/447723343390?text=Hi%20Zeeshan%2C%20I%27m%20interested%20in%20automation." target="_blank">
+    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:support@appilot.app" target="_blank">
+    <img src="https://img.shields.io/badge/Email-support@appilot.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
 
 
 
